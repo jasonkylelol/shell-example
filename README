@@ -1,4 +1,4 @@
-unix shell script reference code
+bash script reference
 
 diff.sh:          example to use shell range and control-flow
 function.sh:      example to use shell function
